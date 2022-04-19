@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmailCol Neider</string>
+    <string name="horaMensaje">18:30</string>
+    <string name="nombrePersona">Juan José Munera</string>
+    <string name="ultimoMensaje">Bienvenido al equipo</string>
+    <string name="mensajeSaludo">Hola que tal amigo</string>
+</resources>
